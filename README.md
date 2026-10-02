@@ -98,7 +98,3 @@ python rate_limit_probe.py
 python analyze_retry_after.py --include-direct
 python proxy_tail_bench.py
 ```
-
-## Disclaimer
-
-This project is provided for educational and personal research purposes. It does not guarantee profit.
