@@ -1,6 +1,6 @@
 # Roblox Limited Listing Monitor
 
-A Python research project that monitors Roblox limited-item resale listings and attempts a purchase when the lowest available listing falls below a configured percentage of its Rolimons valuation.
+Thi is my Python passion project that monitors Roblox limited-item resale listings and attempts a purchase when the lowest available listing falls below a configured percentage of its Rolimons valuation.
 
 The project combines Roblox marketplace data, Rolimons valuation data, configurable price thresholds, and automated purchase requests into a multi-item monitoring workflow.
 
@@ -99,16 +99,6 @@ python analyze_retry_after.py --include-direct
 python proxy_tail_bench.py
 ```
 
-Use these tools responsibly and respect platform request limits.
-
-## Limitations
-
-- A listing can sell between detection and purchase submission.
-- Rolimons value and RAP fluctuate and are not guaranteed resale prices.
-- Account balance, network latency, and API behavior affect results.
-- Roblox endpoints, schemas, and rate limits can change without notice.
-- This project is a prototype and should be tested conservatively.
-
 ## Disclaimer
 
-This project is provided for educational and personal research purposes. It does not provide financial, investment, or trading advice.
+This project is provided for educational and personal research purposes. It does not guarantee profit.
