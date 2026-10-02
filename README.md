@@ -76,7 +76,7 @@ The project requires authenticated Roblox requests for account checks and purcha
 export ROBLOSECURITY='your-cookie-value'
 ```
 
-Never commit `.ROBLOSECURITY` cookies, proxy credentials, account identifiers, or local logs. Treat `.ROBLOSECURITY` as a password.
+IMPORTANT: Never commit `.ROBLOSECURITY` cookies
 
 ## Run
 
